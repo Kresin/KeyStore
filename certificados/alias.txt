@@ -1,0 +1,10 @@
+certificado1:
+*.furb.br (GlobalSign RSA OV SSL CA 2018)
+
+certificado2:
+www.angeloni.com.br (Go Daddy Secure Certificate Authority - G2)
+
+certificado3:
+Gilvan
+
+C:\Users\T-GAMER\IntellijProjects\KeyStore\certificados\keystore
